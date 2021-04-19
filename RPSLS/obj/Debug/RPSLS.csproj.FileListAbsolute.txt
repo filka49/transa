@@ -1,0 +1,7 @@
+D:\УЧЕБА\Transa\C#\RPSLS\obj\Debug\RPSLS.csprojAssemblyReference.cache
+D:\УЧЕБА\Transa\C#\RPSLS\obj\Debug\RPSLS.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Transa\C#\RPSLS\bin\Debug\RPSLS.exe.config
+D:\УЧЕБА\Transa\C#\RPSLS\bin\Debug\RPSLS.exe
+D:\УЧЕБА\Transa\C#\RPSLS\bin\Debug\RPSLS.pdb
+D:\УЧЕБА\Transa\C#\RPSLS\obj\Debug\RPSLS.exe
+D:\УЧЕБА\Transa\C#\RPSLS\obj\Debug\RPSLS.pdb
